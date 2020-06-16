@@ -1,0 +1,19 @@
+{
+  "name": "kawaii-page",
+  "version": "1.0.0",
+  "description": "A page that always displays something kawaii.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thedpws/kawaii-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedpws/kawaii-page/issues"
+  },
+  "homepage": "https://github.com/thedpws/kawaii-page#readme"
+}
