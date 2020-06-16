@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/thedpws/kawaii-page/issues"
   },
-  "homepage": "https://github.com/thedpws/kawaii-page#readme"
+  "homepage": "https://github.com/thedpws/kawaii-page#readme",
+  "dependencies": {
+    "booru": "^2.2.3",
+    "express": "^4.17.1"
+  }
 }

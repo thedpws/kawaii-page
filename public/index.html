@@ -1,0 +1,24 @@
+<html>
+<head>
+  <title>kawaii page</title>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+</head>
+
+<body>
+  <h1>Kawaii</h1>
+  <script>
+
+    console.log('hello');
+    function kawaii(){
+      console.log('hi');
+      console.log('hi');
+      randomInt = Math.floor(Math.random() * 10000);
+      document.body.style.backgroundImage = `url('kawaii?shite=${randomInt}')`
+      setTimeout(() => kawaii(), 6000);
+    }
+    kawaii()
+  </script>
+</body>
+</html>
